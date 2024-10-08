@@ -1,6 +1,5 @@
 import React from "react";
 import Countries from "./components/Countries";
-import Search from "./components/Search/Search";
 
 const App = () => {
   return (
