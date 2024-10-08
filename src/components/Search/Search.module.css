@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f8f8;
+  border: 1px solid transparent;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+
+.input {
+  width: 50%;
+  padding: 10px;
+  margin: 10px;
+}
